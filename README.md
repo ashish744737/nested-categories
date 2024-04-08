@@ -1,4 +1,4 @@
-# Case studies of migraine : Clinical Trials
+# Nested Categories
 <h3>Installation Guid</h3>
 <h4>Please follow below instructions</h4><br>
 1. Rename <b>.env.example</b> as <b>.env</b> file which is in root directory<br>
